@@ -1,4 +1,4 @@
-package Ref7;
+package Ref7;;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
