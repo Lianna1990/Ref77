@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/main/resources/fxml/log4j2.xml.iml" filepath="$PROJECT_DIR$/main/resources/fxml/log4j2.xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/pom.xml/pom.xml.iml" filepath="$PROJECT_DIR$/pom.xml/pom.xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pom.xml/ru.geekbrains.iml" filepath="$PROJECT_DIR$/pom.xml/ru.geekbrains.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
     </modules>
   </component>
